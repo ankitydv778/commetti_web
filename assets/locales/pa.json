@@ -1,0 +1,16 @@
+{
+  "appName": "ਚਿੱਟ ਫੰਡ ਐਪ",
+  "welcome": "ਜੀ ਆਇਆਂ ਨੂੰ",
+  "welcomeBack": "ਵਾਪਸੀ ਤੇ ਜੀ ਆਇਆਂ ਨੂੰ",
+  "loginToContinue": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਲੌਗਇਨ ਕਰੋ",
+  "email": "ਈਮੇਲ",
+  "enterEmail": "ਆਪਣਾ ਈਮੇਲ ਦਰਜ ਕਰੋ",
+  "password": "ਪਾਸਵਰਡ",
+  "enterPassword": "ਆਪਣਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+  "login": "ਲੌਗਇਨ",
+  "register": "ਰਜਿਸਟਰ",
+  "forgotPassword": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
+  "noAccount": "ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+  "haveAccount": "ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਇੱਕ ਖਾਤਾ ਹੈ?",
+  "or": "ਜਾਂ"
+}

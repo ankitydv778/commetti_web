@@ -1,0 +1,16 @@
+{
+  "appName": "ಚಿಟ್ ಫಂಡ್ ಅಪ್ಲಿಕೇಶನ್",
+  "welcome": "ಸ್ವಾಗತ",
+  "welcomeBack": "ಮರಳಿ ಸ್ವಾಗತ",
+  "loginToContinue": "ಮುಂದುವರಿಸಲು ಲಾಗಿನ್ ಮಾಡಿ",
+  "email": "ಇಮೇಲ್",
+  "enterEmail": "ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+  "password": "ಪಾಸ್ವರ್ಡ್",
+  "enterPassword": "ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ",
+  "login": "ಲಾಗಿನ್",
+  "register": "ನೋಂದಣಿ",
+  "forgotPassword": "ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ?",
+  "noAccount": "ಖಾತೆ ಇಲ್ಲವೇ?",
+  "haveAccount": "ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?",
+  "or": "ಅಥವಾ"
+}
