@@ -22,6 +22,10 @@ class AppColors {
   static const Color lightGrey = Color(0xFFE0E0E0);
   static const Color darkGrey = Color(0xFF424242);
 
+  static const Color lightBackground = Color(0xFFF8F9FA);
+  static const Color darkBackground = Color(0xFF121212);
+  static const Color darkCard = Color(0xFF1E1E1E);
+
   // Gradient Colors
   static LinearGradient primaryGradient = LinearGradient(
     colors: [primaryColor, secondaryColor],
